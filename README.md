@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Game App
 
-A classic Tic-Tac-Toe (also known as Noughts and Crosses) mobile application built with Kotlin for Android. The game allows two players to take turns marking spaces in a 3x3 grid, with the goal of getting three of their marks in a row either horizontally, vertically, or diagonally.
+A classic Tic-Tac-Toe (also known as Noughts and Crosses) mobile application built with Java for Android. The game allows two players to take turns marking spaces in a 3x3 grid, with the goal of getting three of their marks in a row either horizontally, vertically, or diagonally.
 
 ## Features
 - **Two-player mode**: Play with a friend on the same device.
